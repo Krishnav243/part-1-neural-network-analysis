@@ -1,0 +1,4 @@
+Configuration,Test Accuracy
+"16 neurons, lr=0.001, epochs=10",0.9825000166893005
+"32 neurons, lr=0.001, epochs=20",0.9825000166893005
+"64 neurons, lr=0.0005, epochs=20",0.9825000166893005
